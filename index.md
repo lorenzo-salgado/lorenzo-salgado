@@ -5,10 +5,14 @@ Hola, Mundo!
 
 # Technical Writing
 I will have some of my writing documents here.
-<a href="pdf/aerogels_history_applications.pdf" target="_blank">PDF.</a>
+
+<a href="pdf/aerogels_history_applications.pdf" target="_blank">-Aerogel Material Properties and History.</a>
+
+
+<a href="pdf/ME-16%20Final%20Project.pdf" target="_blank">-Aerogel as an Insulating Material.</a>
 
 # 3D Printing
-Here I will have some documentation detailing my personal projects. Me and my ender 3 vs. the world.
+Here I will have some documentation detailing my personal projects.
 
 # Music, Games, Sports
 Will hope to take on projects relating to my interests in each of these.
