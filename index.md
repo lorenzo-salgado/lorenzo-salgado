@@ -28,6 +28,8 @@ I will have some of my writing documents here.
  
 <a href="pdf/LorenzoSalgado_ES2_FinalProject.pdf" target="_blank">-MATLAB Projectile Motion Visualisation.</a>  
 
+<a href="https://www.youtube.com/watch?v=W7n8QA71kwo" target="blank">-Lorentz Force Educational Video</a>  
+
 # 3D Printing
 Here I will have some documentation detailing my personal projects.
 
