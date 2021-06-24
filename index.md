@@ -4,7 +4,8 @@
 Hola, Mundo! 
 
 # Technical Writing
-I will have some of my writing documents here
+I will have some of my writing documents here.
+<a href="lorenzo-salgado.github.io/pdf/aerogels_history_applications.pdf" target="_blank">PDF.</a>
 
 # 3D Printing
 Here I will have some documentation detailing my personal projects. Me and my ender 3 vs. the world.
