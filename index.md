@@ -8,13 +8,6 @@ I will have some of my writing documents here.
 
 <a href="pdf/aerogels_history_applications.pdf" target="_blank">-Aerogel Material Properties and History.</a>
 
-
-<a href="pdf/ME-16%20Final%20Project.pdf" target="_blank">-Aerogel as an Insulating Material.</a>
-  
-<a href="pdf/Final%20Project%20Report.pdf" target="_blank">-Zytel Polymer Material Exploration and Selection.</a>
-  
-<a href="pdf/BioMaterials%20Report.pdf" target="_blank">-Exploring Biomaterial Properties.</a>
-
 <a href="pdf/Lorenzo%20Salgado%20-%20HW%20%234%20(1).pdf" target="_blank">-Sustainable Power Generation, Domestic and Internationally.</a>
 
 <a href="pdf/LS_Final_Report.pdf" target="_blank">-Integrating Thermodynamics and Environmental Justice in an Engineering Learning Experience.<a>
@@ -24,6 +17,12 @@ I will have some of my writing documents here.
 <a href="pdf/Lorenzo_Salgado_HW3%20(1).pdf" target="_blank">-Personal Reflections on Engineering Ethics.</a>
   
 <a href="pdf/lorenzo_salgado_astro.pdf" target="_blank">-Measuring Observed Galaxy Velocity Gradients given a MaNGA Galaxy Image.</a>
+
+<a href="pdf/ME-16%20Final%20Project.pdf" target="_blank">-Aerogel as an Insulating Material.</a>
+  
+<a href="pdf/Final%20Project%20Report.pdf" target="_blank">-Zytel Polymer Material Exploration and Selection.</a>
+  
+<a href="pdf/BioMaterials%20Report.pdf" target="_blank">-Exploring Biomaterial Properties.</a>
   
 <a href="pdf/Fluids%20Report.pdf" target="_blank">-Fluid Flow PIV MATLAB Visualisation.</a>
  
