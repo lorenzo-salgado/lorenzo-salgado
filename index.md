@@ -1,5 +1,5 @@
 ## Lorenzo's Professional Portfolio
-### A WIP Portfolio documenting my curiosity across various subjects.
+### Welcome to my personal portfolio documenting my curiosity across various fields of study.
 ---
 Hola, Mundo! 
 
