@@ -10,6 +10,10 @@ I will have some of my writing documents here.
 
 
 <a href="pdf/ME-16%20Final%20Project.pdf" target="_blank">-Aerogel as an Insulating Material.</a>
+  
+  
+<a href="pdf/BioMaterials%20Report.pdf" target="_blank">-Exploring Biomaterial Properties.</a>
+
 
 # 3D Printing
 Here I will have some documentation detailing my personal projects.
