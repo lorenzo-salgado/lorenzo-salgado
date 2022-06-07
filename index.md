@@ -6,40 +6,44 @@
 
 ### Education
 
-<a href="pdf/LS_Final_Report.pdf" target="_blank">-Integrating Thermodynamics and Environmental Justice in an Engineering Learning Experience.<a>
+<a href="pdf/engEDU_LS.pdf" target="_blank">-Integrating Thermodynamics and Environmental Justice in an Engineering Learning Experience.<a>
   
-<a href="pdf/LS_Homework_HW5%20(1).pdf" target="_blank">-Educational Outcomes following COVID-19 Pandemic.</a>
+<a href="pdf/Education_Impacts_Covid.pdf" target="_blank">-Educational Outcomes following COVID-19 Pandemic.</a>
   
 <a href="https://www.youtube.com/watch?v=W7n8QA71kwo" target="blank">-Lorentz Force Educational Video</a>  
 
-### Materials
-
-<a href="pdf/aerogels_history_applications.pdf" target="_blank">-Aerogel Material Properties and History.</a>
-
-<a href="pdf/ME-16%20Final%20Project.pdf" target="_blank">-Aerogel as an Insulating Material.</a>
-
-<a href="pdf/Final%20Project%20Report.pdf" target="_blank">-Zytel Polymer Material Exploration and Selection.</a>
-
-<a href="pdf/BioMaterials%20Report.pdf" target="_blank">-Exploring Biomaterial Properties.</a>
-
 ### Personal Reflections
 
-<a href="pdf/Lorenzo%20Salgado%20-%20HW%20%234%20(1).pdf" target="_blank">-Sustainable Power Generation, Domestic and Internationally.</a>
+<a href="pdf/Pow_Gen_Refl.pdf" target="_blank">-Sustainable Power Generation, Domestic and Internationally.</a>
 
-<a href="pdf/Lorenzo_Salgado_HW3%20(1).pdf" target="_blank">-Personal Reflections on Engineering Ethics.</a>
+<a href="pdf/Refl_EngEthics.pdf" target="_blank">-Personal Reflections on Engineering Ethics.</a>
   
+### Materials
+
+<a href="pdf/aerogels_history_LS.pdf" target="_blank">-Aerogel Material Properties and History.</a>
+
+<a href="pdf/HeatTransfer_Model_Gr.pdf" target="_blank">-Aerogel as an Insulating Material.</a>
+
+<a href="pdf/Materials_Final_Gr.pdf" target="_blank">-Zytel Polymer Material Exploration and Selection.</a>
+
+<a href="pdf/BioMaterials_Gr.pdf" target="_blank">-Exploring Biomaterial Properties.</a>
+
 ### MATLAB, Python Reports
   
 <a href="pdf/lorenzo_salgado_astro.pdf" target="_blank">-Measuring Observed Galaxy Velocity Gradients given a MaNGA Galaxy Image.</a>
   
-<a href="pdf/Fluids%20Report.pdf" target="_blank">-Fluid Flow PIV MATLAB Visualisation.</a>
+<a href="pdf/PIV_MATLAB_FLUIDS_gr.pdf" target="_blank">-Fluid Flow PIV MATLAB Visualisation.</a>
   
 <a href="pdf/LorenzoSalgado_ES2_FinalProject.pdf" target="_blank">-MATLAB Projectile Motion Visualisation.</a>  
 
 
 # 3D Printing
-Here I will have some documentation detailing my personal projects.
-
+  
+<a href="pdf/User Guide Ender 3 Pro.pdf" target="_blank">-Ender 3 Pro, At-Home User Guide.</a>  
+  
+# Spanish
+    
+<a href="pdf/Netflix_Guide_Spanish.pdf" target="_blank">-[SPANISH] Netflix, At-Home User Guide; for low-tech Spanish speakers.</a>  
 
 <!--
 ---
