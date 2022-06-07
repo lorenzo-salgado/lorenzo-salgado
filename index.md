@@ -19,7 +19,7 @@
 
 <a href="pdf/Lorenzo_Salgado_HW3%20(1).pdf" target="_blank">-Personal Reflections on Engineering Ethics.</a>
 
-## Education
+### Education
 
 <a href="pdf/LS_Final_Report.pdf" target="_blank">-Integrating Thermodynamics and Environmental Justice in an Engineering Learning Experience.<a>
   
@@ -27,7 +27,7 @@
   
 <a href="https://www.youtube.com/watch?v=W7n8QA71kwo" target="blank">-Lorentz Force Educational Video</a>  
   
-## MATLAB, Python Reports
+### MATLAB, Python Reports
   
 <a href="pdf/lorenzo_salgado_astro.pdf" target="_blank">-Measuring Observed Galaxy Velocity Gradients given a MaNGA Galaxy Image.</a>
   
