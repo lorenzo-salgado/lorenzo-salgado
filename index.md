@@ -1,8 +1,17 @@
 ## Lorenzo's Portfolio
-### Welcome to my personal portfolio documenting my curiosity across my various life experiences.
+### Welcome to my personal portfolio documenting my curiosity across my various experiences.
 ---
 
 # Technical Writing
+
+### Education
+
+<a href="pdf/LS_Final_Report.pdf" target="_blank">-Integrating Thermodynamics and Environmental Justice in an Engineering Learning Experience.<a>
+  
+<a href="pdf/LS_Homework_HW5%20(1).pdf" target="_blank">-Educational Outcomes following COVID-19 Pandemic.</a>
+  
+<a href="https://www.youtube.com/watch?v=W7n8QA71kwo" target="blank">-Lorentz Force Educational Video</a>  
+
 ### Materials
 
 <a href="pdf/aerogels_history_applications.pdf" target="_blank">-Aerogel Material Properties and History.</a>
@@ -18,14 +27,6 @@
 <a href="pdf/Lorenzo%20Salgado%20-%20HW%20%234%20(1).pdf" target="_blank">-Sustainable Power Generation, Domestic and Internationally.</a>
 
 <a href="pdf/Lorenzo_Salgado_HW3%20(1).pdf" target="_blank">-Personal Reflections on Engineering Ethics.</a>
-
-### Education
-
-<a href="pdf/LS_Final_Report.pdf" target="_blank">-Integrating Thermodynamics and Environmental Justice in an Engineering Learning Experience.<a>
-  
-<a href="pdf/LS_Homework_HW5%20(1).pdf" target="_blank">-Educational Outcomes following COVID-19 Pandemic.</a>
-  
-<a href="https://www.youtube.com/watch?v=W7n8QA71kwo" target="blank">-Lorentz Force Educational Video</a>  
   
 ### MATLAB, Python Reports
   
