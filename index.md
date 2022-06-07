@@ -1,10 +1,8 @@
 ## Lorenzo's Professional Portfolio
-### Welcome to my personal portfolio documenting my curiosity across various fields of study.
+### Welcome to my personal portfolio documenting my curiosity across my various life experiences.
 ---
-Hola, Mundo! 
 
 # Technical Writing
-I will have some of my writing documents here.
 
 <a href="pdf/aerogels_history_applications.pdf" target="_blank">-Aerogel Material Properties and History.</a>
 
@@ -33,8 +31,6 @@ I will have some of my writing documents here.
 # 3D Printing
 Here I will have some documentation detailing my personal projects.
 
-# Music, Games, Sports
-Will hope to take on projects relating to my interests in each of these.
 
 <!--
 ---
