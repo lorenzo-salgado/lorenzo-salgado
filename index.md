@@ -17,9 +17,9 @@
   
 ### Materials
 
-  <a href="pdf/aerogels_history_LS.pdf" target="_blank">  Aerogel Material Properties and History.</a>
-
   <a href="pdf/Materials_Final_Gr.pdf" target="_blank">  Zytel Polymer Material Exploration and Selection.</a>
+
+  <a href="pdf/aerogels_history_LS.pdf" target="_blank">  Aerogel Material Properties and History.</a>
 
 ### MATLAB, Python Reports
   
