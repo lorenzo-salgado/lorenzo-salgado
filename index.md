@@ -1,5 +1,5 @@
 ## Lorenzo's Portfolio
-### Welcome to my personal portfolio documenting my curiosity across my various experiences.
+### Documenting my curiosity across my various experiences.
 ---
 
 ## Education
